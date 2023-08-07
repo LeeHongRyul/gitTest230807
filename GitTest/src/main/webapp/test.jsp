@@ -8,7 +8,7 @@
 <head>
 
 <meta charset="UTF-8">
-<title>test.jsp</title>
+<title>test.jsp 수정</title>
 
 </head>
 
